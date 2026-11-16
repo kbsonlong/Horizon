@@ -3,7 +3,7 @@
     "provider": "openai",
     "model": "glm-5.3",
     "base_url": "https://api.z.ai/api/coding/paas/v4",
-    "api_key_env": "OPENAI_API_KEY"
+    "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
     "throttle_sec": 1,
